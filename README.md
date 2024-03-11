@@ -76,5 +76,24 @@ Below is the image of the data after transformation.
 
 ![Screenshot (457)](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/3d986dc8-c864-48a3-842d-576b8982dc37)
 
+## ANALYSIS
+
+
+**TWO WAY LIFT**
+
+![TWO WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/f6800881-4613-4396-af94-cb75bd1ec4da)
+
+
+
+**THREE WAY LIFT**
+
+
+![THREE WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/a4b07a53-cee9-4d09-83e8-a17fcfd99355)
+
+
+**FOUR WAY LIFT**
+
+
+![FOUR WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/da71a24a-497a-4288-8f94-592969c3a188)
 
 
