@@ -83,13 +83,15 @@ Below is the image of the data after transformation.
 
 ![TWO WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/f6800881-4613-4396-af94-cb75bd1ec4da)
 
-
+- OBSERVATIONS
+1. Among the factors analyzed, Females exhibit the highest lift value of 1.86, with First Class closely behind at 1.6. This suggests that the Female and First Class category has a greater likelihood of survival compared to other groups.
 
 **THREE WAY LIFT**
 
-
 ![THREE WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/a4b07a53-cee9-4d09-83e8-a17fcfd99355)
 
+- OBSERVATIONS
+1. 
 
 **FOUR WAY LIFT**
 
