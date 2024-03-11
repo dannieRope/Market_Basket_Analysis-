@@ -58,10 +58,16 @@ Association rules help businesses understand customer behavior, optimize product
 ## CASE STUDY
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone on board, resulting in the death of 1502 out of 2224 passengers and crew.
+
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 Use the data sheet to identify children, adults, and seniors (Passengers above 50 years of age) under different age groups. Ignore records when incomplete passenger details are available. 
-Using rules of association (Support, Confidence, and lift) determine which cohort of passengers across age group, class travelled in, and gender, had the greatest chance of survival. Using passenger data (i.e name, age, gender, socio-economic class, etc).
 
-The is downloaded from [kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+**Using rules of association (Support, Confidence, and lift) determine which cohort of passengers across age group, class travelled in, and gender, had the greatest chance of survival. Using passenger data (i.e name, age, gender, socio-economic class, etc).**
+
+The dataset is downloaded from [kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+
+## DATA CLEANING AND PREPARATION
+With the use of Excel's power query, I cleaned the dataset by removing null values and duplicates, checking for the right data types and transforming columns for the analysis. 
+Check out the the mcode for the data transformation [here](). 
 
 
