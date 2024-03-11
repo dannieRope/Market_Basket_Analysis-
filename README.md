@@ -72,4 +72,9 @@ Use the data sheet to identify children, adults, and seniors (Passengers above 5
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) and cleaned up using Excel's power query. 
 I removed duplicates and null values, checked that the data types were correct, and converted the columns so that the dataset was ready for analysis. You can see the M code for data transformation [here](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/blob/main/datacleaning.pq).
 
+Below is the image of the data after transformation. 
+
+![Screenshot (457)](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/3d986dc8-c864-48a3-842d-576b8982dc37)
+
+
 
