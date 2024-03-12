@@ -101,7 +101,7 @@ Below is the image of the data after transformation.
 - INSIGHTS
 1. The combination of First Class, Female, and Adult demonstrates the highest lift value of 2.38, closely followed by the combination of Second Class, Female, and Adult at 2.25. This suggests that Adult females in First Class have the highest likelihood of survival, followed by Second Class adult females.
 
-Find the excel workbook for this analyis [here]()
+Find the excel workbook for this analyis [here](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/blob/main/Titanic.xlsx)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # MARKET BASKET ANALYSIS USING THE SALES DATA
@@ -126,7 +126,9 @@ Below is an image of the dataset
 
 -INSIGHTS
 
-1. Meat exhibits the highest lift value with vegetables, registering a lift value of 1.01. This indicates a robust relationship between meat and vegetables, suggesting that a significant portion of customers purchasing meat also tend to buy vegetables. 11
+1. Meat exhibits the highest lift value with vegetables, registering a lift value of 1.01. This indicates a robust relationship between meat and vegetables, suggesting that a significant portion of customers purchasing meat also tend to buy vegetables.
+
+Find the excel workbook for this analyis [here]()
 
 
 # CONCLUSION
@@ -136,7 +138,7 @@ The results suggest that adult females traveling in First Class had the best cha
 - **Case 2**
 A significant portion of consumers who purchase meat also purchase vegetables. Cross-selling meat and vegetables together is a smart way to increase vegetable sales.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # THANKS FOR READING 
 
 
