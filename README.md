@@ -128,7 +128,7 @@ Below is an image of the dataset
 
 1. Meat exhibits the highest lift value with vegetables, registering a lift value of 1.01. This indicates a robust relationship between meat and vegetables, suggesting that a significant portion of customers purchasing meat also tend to buy vegetables.
 
-Find the excel workbook for this analyis [here]()
+Find the excel workbook for this analyis [here](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/blob/main/Vegetables.xlsx)
 
 
 # CONCLUSION
