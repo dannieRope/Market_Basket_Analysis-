@@ -53,6 +53,7 @@ Here's a breakdown of the concepts in the context of association mining:
 
 Association rules help businesses understand customer behavior, optimize product placements, and design targeted marketing strategies. 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # MARKET BASKET ANALYSIS USING THE TITANIC DATASET 
 
 ## CASE STUDY 1
@@ -64,7 +65,7 @@ Use the data sheet to identify children, adults, and seniors (Passengers above 5
 
 **QUESTION**
 
-**Using rules of association (Support, Confidence, and lift) determine which cohort of passengers across age group, class travelled in, and gender, had the greatest chance of survival. Using passenger data (i.e name, age, gender, socio-economic class, etc).**
+- **Using rules of association (Support, Confidence, and lift) determine which cohort of passengers across age group, class travelled in, and gender, had the greatest chance of survival. Using passenger data (i.e name, age, gender, socio-economic class, etc).**
 
 
 ## DATA CLEANING AND PREPARATION
@@ -83,19 +84,59 @@ Below is the image of the data after transformation.
 
 ![TWO WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/f6800881-4613-4396-af94-cb75bd1ec4da)
 
-- OBSERVATIONS
+- INSIGHTS
 1. Among the factors analyzed, Females exhibit the highest lift value of 1.86, with First Class closely behind at 1.6. This suggests that the Female and First Class category has a greater likelihood of survival compared to other groups.
 
 **THREE WAY LIFT**
 
 ![THREE WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/a4b07a53-cee9-4d09-83e8-a17fcfd99355)
 
-- OBSERVATIONS
-1. 
+- INSIGHTS
+1. The combination of First Class and Female passengers stands out with the highest lift of 2.38, followed closely by Second Class and Female with a lift of 2.26. This indicates that Females in First Class have the highest likelihood of survival, followed by Second Class Females.
 
 **FOUR WAY LIFT**
 
-
 ![FOUR WAY LIFT](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/da71a24a-497a-4288-8f94-592969c3a188)
+
+- INSIGHTS
+1. The combination of First Class, Female, and Adult demonstrates the highest lift value of 2.38, closely followed by the combination of Second Class, Female, and Adult at 2.25. This suggests that Adult females in First Class have the highest likelihood of survival, followed by Second Class adult females.
+
+Find the excel workbook for this analyis [here]()
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# MARKET BASKET ANALYSIS USING THE SALES DATA
+
+## CASE STUDY 2
+The dataset contains sales transactions for various products, such as vegetables, baby items, fruits, milk, DVDs, and meat, spanning the entire week. The dataset comprises approximately 2928 rows. 
+
+**QUESTION**
+- **Utilizing this data, determine the product that is most suitable for cross-selling with vegetables.**
+
+# DATA CLEANING AND PREPARATION 
+
+There are no null values or duplicates in the provided data, and the data types are accurate. It is confirmed that no data cleaning is required after a thorough cross-check.
+Below is an image of the dataset
+
+![salesTransaction](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/32d121ea-ec1d-407c-bdab-281be5a66e59)
+
+
+## ANALYSIS 
+
+![Analysis](https://github.com/dannieRope/Market_Basket_Analysis_With_Excel/assets/132214828/68113f90-9e31-4a80-afcc-2842df32650d)
+
+-INSIGHTS
+
+1. Meat exhibits the highest lift value with vegetables, registering a lift value of 1.01. This indicates a robust relationship between meat and vegetables, suggesting that a significant portion of customers purchasing meat also tend to buy vegetables. 11
+
+
+# CONCLUSION
+- **Case 1**
+The results suggest that adult females traveling in First Class had the best chance of surviving the Titanic ship disaster.
+
+- **Case 2**
+A significant portion of consumers who purchase meat also purchase vegetables. Cross-selling meat and vegetables together is a smart way to increase vegetable sales.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# THANKS FOR READING 
 
 
